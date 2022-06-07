@@ -1,0 +1,17 @@
+medi la gravedad a una distancia h (del planeta)
+
+distancia sol a la medida => r = R+h
+R = distancia del sol al planeta 
+F = m.a
+F = m . g
+F = Fg
+
+Ms . g = G Ms Mp / r^2
+
+g = G Mp/ r^2
+g = G Mp/(R+h)^2
+
+h<= 2r  (r =  radio del planeta en cuestion) 
+Ley dfe gravitacion 
+
+F = cteGravi*( Ms Mp)/ (distancia que los separa ^2)

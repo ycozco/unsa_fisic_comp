@@ -1,0 +1,3 @@
+def gravitation(mass1, mass2, distance):
+    G = 6.67 * 10 ** -11
+    return G * mass1 * mass2 / distance ** 2

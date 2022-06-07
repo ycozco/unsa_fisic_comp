@@ -18,8 +18,8 @@ def aerolar_velocity(planet_radius_to_sun_1, planet_angular_velocity_1, planet_r
     gen_result = ""
     result1 = 0
     result2 = 0
-    result1 = 1/2(planet_radius_to_sun_1**2) * planet_angular_velocity_1
-    result2 = 1/2(planet_radius_to_sun_2**2) * planet_angular_velocity_2
+    result1 = 1/2*(planet_radius_to_sun_1**2) * planet_angular_velocity_1
+    result2 = 1/2*(planet_radius_to_sun_2**2) * planet_angular_velocity_2
     if(result1 == result2):
         gen_result= "los dos planetas tienen la misma velocidad aerolar r1:" + str(result1) + "/t r2:" + str(result2)
     return gen_result

@@ -21,7 +21,7 @@ print("jupiter\t",get_period_third_kepler(5.2,11.86)," \tor ", round(get_period_
 print("saturn\t",get_period_third_kepler(9.58,29.46)," \tor ", round(get_period_third_kepler(9.58,29.46),5) )
 #test uranus
 print("uranus\t",get_period_third_kepler(19.2,84.01)," \tor ", round(get_period_third_kepler(19.2,84.01),5) )
-#test neptune
+#test neptuneDDD
 print("neptune\t",get_period_third_kepler(30.1,164.8)," \tor ", round(get_period_third_kepler(30.1,164.8),5) )
 #test pluto
 print("pluto\t",get_period_third_kepler(39.5,248.3)," \tor ", round(get_period_third_kepler(39.5,248.3),5) )
